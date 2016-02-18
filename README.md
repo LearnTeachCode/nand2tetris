@@ -5,6 +5,7 @@
 - Sign up for our Slack chatroom to keep in touch with us virtually: https://l2cla-slackin.herokuapp.com/
 - Enroll in the free Coursera class: https://www.coursera.org/learn/build-a-computer
 - Course homepage: http://nand2tetris.org/
+- (optional): use course software remotely: https://github.com/LearnToCodeLA/nand2tetris/wiki/Test-HDL-files-remotely
 
 ## Week 0
 
@@ -26,5 +27,5 @@
 
 - A blurb explaining what this class is all about and how our study group works
 - Cool links (like the adder made with dominoes or Minecraft computers)
-- List of tools we're using (like Cloud9 and Logic.ly)
+- List of tools we're using (like Logic.ly)
 - An FAQ
