@@ -23,9 +23,21 @@
 - Read the [Hardware Description Language (HDL) Survivor Guide](http://nand2tetris.org/software/HDL%20Survival%20Guide.html) by Mark Armbrust
 - [Complete Project 1](http://nand2tetris.org/01.php)!
 
-**Stuff to add to this page later:**
+## Tools
 
-- A blurb explaining what this class is all about and how our study group works
-- Cool links (like the adder made with dominoes or Minecraft computers)
-- List of tools we're using (like Logic.ly)
-- An FAQ
+- [Logic.ly](http://logic.ly/) for designing and debugging circuits
+- [Cloud9](https://c9.io/) online code editor (See also: [our guide to running NAND2Tetris software remotely](https://github.com/LearnToCodeLA/nand2tetris/wiki/Test-HDL-files-remotely))
+
+## Additional Resources
+
+- Watch [these videos of another NAND2Tetris study group](https://www.youtube.com/playlist?list=PLItFDtW5mcKqzmdjdEhha6KImPwBLBaQr) (Warning: may contain spoilers!)
+- ...Add more here!
+
+## Cool Links
+
+- Video: [Binary addition with dominoes](https://www.youtube.com/watch?v=lNuPy-r1GuQ)
+- Video: [The 10,000 Domino Computer](https://www.youtube.com/watch?v=OpLU__bhu2w)
+- Video: [How Does a Transistor Work?](https://www.youtube.com/watch?v=IcrBqCFLHIY)
+- Did you know the [Apollo Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer) was built out of nothing but NOR gates?
+- Video: [16-bit Arithmetic Logic Unit (ALU) Built in Minecraft](https://www.youtube.com/watch?v=LGkkyKZVzug)
+- ...add more!
