@@ -40,4 +40,7 @@
 - Video: [How Does a Transistor Work?](https://www.youtube.com/watch?v=IcrBqCFLHIY)
 - Did you know the [Apollo Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer) was built out of nothing but NOR gates?
 - Video: [16-bit Arithmetic Logic Unit (ALU) Built in Minecraft](https://www.youtube.com/watch?v=LGkkyKZVzug)
+- Article: [Magic in Software Development](http://skilldrick.co.uk/2011/04/magic-in-software-development/) on balancing bottom-up vs top-down learning
+- [Easy 6502 Assembly Tutorial](http://skilldrick.github.io/easy6502/)
+- [Visual 6502 CPU Simulator](http://www.visual6502.org/JSSim/)
 - ...add more!
