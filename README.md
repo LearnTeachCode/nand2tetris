@@ -43,4 +43,5 @@
 - Article: [Magic in Software Development](http://skilldrick.co.uk/2011/04/magic-in-software-development/) on balancing bottom-up vs top-down learning
 - [Easy 6502 Assembly Tutorial](http://skilldrick.github.io/easy6502/)
 - [Visual 6502 CPU Simulator](http://www.visual6502.org/JSSim/)
+- Project: [A homebrew 8-bit computer built entirely out of NAND gates](https://hackaday.io/project/9795-nedonand-homebrew-computer)
 - ...add more!
