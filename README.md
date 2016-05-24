@@ -24,8 +24,13 @@
 - [Complete Project 1](http://nand2tetris.org/01.php)!
 
 ## Tools
-
+### Circuit Simulators
 - [Logic.ly](http://logic.ly/) for designing and debugging circuits
+- [Logisim] (http://www.cburch.com/logisim/index.html) design/simulate digital logic circuits
+- [circuitjs] (http://lushprojects.com/circuitjs/circuitjs.html) check combinatorial/sequential logic examples
+- [DEEDS] (http://www.esng.dibe.unige.it/deeds/) Digital Electronics Education and Design Suite
+
+###Development Environments
 - [Cloud9](https://c9.io/) online code editor (See also: [our guide to running NAND2Tetris software remotely](https://github.com/LearnToCodeLA/nand2tetris/wiki/Test-HDL-files-remotely))
 
 ## Additional Resources
